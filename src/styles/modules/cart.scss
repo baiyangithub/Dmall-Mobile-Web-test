@@ -1,0 +1,72 @@
+.container {
+    background: #f6f6f6;
+    width: 100%;
+    header{
+        position: relative;
+        height: .67rem;
+        padding: 10px 25px 10px 10px;
+        background: #fff;
+        section{
+            width: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: .02rem;
+            background: url("https://static.dmall.com/kayak-project/cart/dist/cart/common/image/shoppingline.png");
+        }
+        .address{
+            font-size: .16rem;
+            height: .47rem;
+            p{
+                line-height: 24px;
+            }
+            .send{
+                overflow: hidden;
+                color: grey;
+                font-size: .13rem;
+                position: relative;
+                word-wrap: break-word;
+                word-break: break-all;
+            }
+            span{
+                right: .02rem;
+                color:#ddd;
+                top: 25%;
+                position: absolute;
+                font-size: .28rem;
+            }
+        }
+    }
+    main{
+        @include flex();
+        width: 100%;  
+        overflow-y: scroll;     
+        .buybuybuy{
+            text-align: center;
+            height: 2.7rem;
+            width: 100%;
+            img{
+                width: 1rem;
+                margin-top: .75rem;
+                margin-right: .1rem;
+                vertical-align: middle;
+            }
+            span{
+                display: block;
+                margin-bottom: .3rem;
+                color: #979797;
+                font-size: .14rem;
+            }
+            .buybtn{
+                padding: 0 .22rem;
+                height: .44rem;
+                line-height: .44rem;
+                background: #ff712b;
+                color: #fff;
+                border-radius: .04rem;
+                border: none;
+                font-size: .14rem;
+            }
+        }
+    }
+}

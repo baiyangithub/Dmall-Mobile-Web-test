@@ -1,0 +1,88 @@
+.container {
+  .head{
+    height: .44rem;
+    background: #fff;
+    @include flexbox(); 
+    .address{
+      font-size:.14rem;
+      padding-left:.17rem;
+      height: 100%;
+      width: 100%;
+      @include flexbox();
+      position: relative;
+      label{
+        width: .44rem;
+        height: 100%;
+        @include flexbox();
+        line-height: .44rem;
+      }
+      span{
+        max-width:50% ;
+        height: 100%;
+        font-size: .14rem;
+        padding-right: 20px;
+        @include flexbox();
+        line-height: .44rem;
+        i{
+          font-style: normal;
+          display: block;
+          overflow: hidden;
+          text-overflow: ellipsis; 
+          white-space: nowrap;
+        }
+      }
+    }
+    .search{
+      width: .40rem;
+      height: .44rem;
+      position: absolute;
+      top: 0;
+      right: 0;
+      @include flexbox();
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+    }
+  }
+.menu{
+  height: .40rem;
+  background: #fff;
+  position: relative;
+  @include flexbox();
+  flex-direction: column;
+  .choose{
+    width: .90rem;
+    height: 100%;
+    @include flexbox();
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    span{
+      color: #ff8143;
+      font-size: .14rem;
+      margin-left: .17rem;
+      margin-right: .17rem;
+    }
+    em{
+      height: .02rem;
+      position: absolute;
+      width: .56rem;
+      margin-left: .17rem;
+      margin-right: .17rem;
+      background-color: #ff8143;
+      bottom: 0;
+      left: 0;
+    }
+  }
+}
+.menu::after{
+  position: absolute;
+  content:"";
+  border-bottom:1px solid #818181;
+  width: 200%;
+  height: 200%;
+  transform: scale(0.5);
+  transform-origin:0 0; 
+}
+}

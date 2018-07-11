@@ -1,0 +1,88 @@
+.container {
+  main {
+    @include flex();
+    width: 100%;
+    overflow-y: scroll;
+    background: #f6f6f6;
+    flex-direction: column;
+    // 导航图
+    .banner{
+      width: 100%;
+      img{
+        width: 100%;
+        height: 100%;
+      }
+    }
+    // 手机验证
+    .login{
+      width: 100%;
+      background: #fff;
+      margin-top: .1rem;
+      .phone{
+        height: .6rem;
+        position: relative;
+        line-height: 46px;
+        padding: .08rem 1.2rem .08rem .1rem;
+        input{
+          width: 100%;
+          border: none;
+        }
+        .phone-right{
+          position: absolute;
+          height: .34rem;
+          top: .13rem;
+          right: .1rem;
+          line-height: .34rem;
+          span{
+            padding: .08rem .12rem;
+            color: #ff712b;
+            font-size: .14rem; 
+            min-width: .65rem;
+            border: 1px solid #ff712b;
+            border-radius: .06rem;
+          }
+        }
+      }
+      .code{
+        width: 100%;
+        height: .6rem;
+        line-height: 46px;
+        padding: .08rem 1.2rem .08rem .1rem;
+        input{
+          border: none;
+        }
+      }
+    }
+    // 协议
+    .tips{
+      text-align: right;
+      padding-right: .1rem;
+      width: 100%;
+      margin-top: .2rem;
+      font-size: .13rem;
+      color: grey; 
+      a{
+        text-decoration: underline;
+        color: #ff712b;
+      }
+    }
+    // 按钮
+    .btn{
+      width: 100%;
+      padding: .1rem;
+      margin-top: .1rem;
+      button{
+        background: #ff712b;
+        padding-top: .1rem;
+        padding-bottom: .1rem;
+        width: 100%;
+        color: #fff;
+        border-radius: .04rem;
+        font-size: .14rem;
+        padding: .07rem .2rem;
+        text-align: center;
+        border: none;
+      }
+    }
+  }
+}

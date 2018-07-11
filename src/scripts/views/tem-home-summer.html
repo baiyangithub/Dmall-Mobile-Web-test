@@ -1,0 +1,18 @@
+{{each dataList}}
+<li>
+    <a href="">
+        <img src="//img.dmallcdn.com/common/b8cb181b-5e07-4e6a-97f1-6ef1789c2cb1" alt="" style="display: none">
+        <img src="{{$value.imageUrl}}" alt="">
+    </a>
+    <div class="details">
+        <b>{{$value.data.promotionDisplayLable}}</b>
+        <span>{{$value.data.name}}</span>
+        <em>￥{{$value.data.price}}</em>
+        <div class="price">
+            <span class="price-item">￥</span>
+            <i>{{$value.data.promotionPrice}}</i>
+            <i class="icon-add-cart">&#xe63e;</i>
+        </div>
+    </div>
+</li>
+{{/each}}

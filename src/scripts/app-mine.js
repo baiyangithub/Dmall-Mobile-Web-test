@@ -1,0 +1,12 @@
+const indexTpl = require('./views/index.html')
+const headerTpl = require('./views/mine-header.html')
+const footerTpl = require('./views/footer.html')
+const mineTpl = require('./views/mine.html')
+const orderTpl = require('./views/mine-order.html')
+const surviceTpl = require('./views/mine-survice.html')
+
+const indexController = require('./controllers/index')
+$('#root').html(indexTpl)
+$('.container').html(headerTpl + mineTpl +footerTpl)
+$('.container main').html(orderTpl + surviceTpl)
+indexController.footerAction()

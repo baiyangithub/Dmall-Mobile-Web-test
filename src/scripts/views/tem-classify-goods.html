@@ -1,0 +1,17 @@
+{{each list}}
+<li>
+    <a href="detail.html">
+        <img src="//img.dmallcdn.com/common/b8cb181b-5e07-4e6a-97f1-6ef1789c2cb1" alt="" style="display: none">
+        <img src="{{$value.img}}" alt="">
+    </a>
+    <div class="details">
+        <b>精选价</b>
+        <span>{{$value.title}}</span>
+        <div class="price">
+            <span class="price-item">￥</span>
+            <i>{{$value.price}}</i>
+            <i class="icon-add-cart">&#xe63e;</i>
+        </div>
+    </div>
+</li>
+{{/each}}

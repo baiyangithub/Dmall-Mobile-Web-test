@@ -1,0 +1,228 @@
+.container {
+  main{
+    @include flex();
+    background: #f6f6f6;
+    overflow-y: scroll;
+    width: 100%;
+    .swiper-container{
+        width: 100%;
+        font-size: 0;
+        .swiper-slide{
+          width: 100%;
+          height: 100%;
+        }
+        img{
+            width: 100%;
+            // height: 2rem;
+        }
+    }
+    // 商品分类列表
+    .pro-list{
+      width: 100%;
+      margin-top:.1rem;
+      background: #fff;
+      #postlist{
+        @include flexbox();
+        flex-wrap: wrap;
+        font-size: .12rem;
+        color: #888;
+        li{
+          width: 20%;
+          height: 100%;
+          flex-direction: column;
+          @include flexbox();
+          align-items: center;
+          justify-content: center;
+          img{
+            height: 100%;
+            width: 100%;
+          }
+        }
+      } 
+    }
+    // 促销活动
+    .sales-pro1{
+      margin-top: .09rem;
+      width: 100%;
+      font-size: 0;
+      ul{
+        display: flex;
+        flex-wrap: wrap;
+        li{
+          width: 50%;
+          // height: 2.2rem;
+          img{
+            width: 100%;
+          }
+          .item-box{
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+          }
+        }
+      }
+    }
+    // 精选会场
+    .sales-pro2-logo{
+      margin-top: .09rem;
+      width: 100%;
+      font-size: 0;
+      img{
+        width: 100%;
+      }
+    }
+    // 产品
+    .item-discount{
+      font-size:0;
+      width: 100%;
+      ul{
+        @include flexbox();
+        flex-wrap: wrap;
+        li{
+          width: 33.3333333%;
+          margin-top:2px; 
+          img{
+            width: 100%;
+          }
+        }
+      }
+    }
+        // 粮油广告
+    .jumppage{
+      margin-top: .09rem;
+      width: 100%;
+      font-size: 0;
+      img{
+        width: 100%;
+      }
+    }
+    // 粮油产品
+    .item{
+      font-size: 0;
+      width: 100%;
+      ul{
+        @include flexbox();
+        flex-wrap: wrap;
+        background: #fff;
+        position: relative;
+        overflow: hidden;
+        li{
+          width: 33.33333%;
+          padding: .10rem;
+          min-height: 170px;
+          border-right: 1px solid #f0f0f0;
+          border-bottom: 1px solid #f0f0f0;
+          @include flexbox();
+          flex-direction: column;
+          a{
+            width: 100%;
+            img{
+              width: 100%;
+            }
+          }
+          .details{
+            width: 100%;
+            b{
+              font-size: .09rem;
+              background: #ff6161;
+              color: #fff;
+              font-weight: bold;
+              display: block;
+              width: 38px;
+              text-align: center;
+            }
+            span{
+              font-size: .14rem;
+              margin: 7px 0 10px 0;
+              color: #21292b;
+              display: block;
+              line-height: .18rem;
+              height: .36rem;
+              @include ellipsis(null,2);
+            }
+            em{
+              display: block;
+              color: grey;
+              font-size: .12rem;
+              text-decoration: line-through;
+            }
+            .price{
+              width: 100%;
+              height: 0.25rem;
+              margin-bottom:0; 
+              @include flexbox();
+              flex-direction: row;
+              align-items: center;
+              position: relative;
+              .price-item{
+                color: #ff712b;
+                font-size: .16rem;
+                display: block;
+                margin: 0;
+                line-height: 0.36rem;
+              }
+              i{
+                // display: block;
+                color: #ff712b;
+                font-size: .16rem;
+                font-weight: 100;
+                margin-left: -.04rem;
+                line-height: 0.36rem;
+              }
+              .icon-add-cart{
+                font-family: "add-cart-icon";
+                font-size: .22rem;
+                font-weight: normal;
+                position: absolute;
+                right: 0;
+                bottom: -0.02rem;
+              }
+            }     
+          }
+        }
+      }
+    }
+    //已经到底了哦
+    .down{
+      width: 100%;
+      display: block;
+      padding: 22px 0;
+      position: relative;
+      @include flexbox();
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      .down-middle{
+        font-size: .14rem;
+        position: relative;
+        color: black;
+        z-index: 99;
+        display: inline-block;
+        span{
+          z-index: 10;
+          padding: 5px 9px;
+          color: #c8cccd;
+          background: #f6f6f6;
+        }
+      }
+      hr{
+        position: absolute;
+        top: 40%;
+        left: 0;
+        width: 100%;
+        z-index: 0;
+        border: 1px solid #f0f0f0;            
+        border-width: 1px 0 0;
+      }
+    }
+    //下载APP
+    .download{
+      width: 100%;
+      img{
+        width: 100%;
+        height: 100%;
+      }
+    }
+
+  }
+}

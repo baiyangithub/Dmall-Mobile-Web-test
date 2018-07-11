@@ -1,0 +1,243 @@
+{
+	"content": {
+		"data": {
+			"isLogin": false,
+			"page": {
+				"pageSize": 15,
+				"start": "15",
+				"result": [
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4053189,
+						"positionName": "视频云高级产品经理",
+						"city": "上海",
+						"createTime": "今天 11:21",
+						"salary": "15k-25k",
+						"companyId": 26467,
+						"companyLogo": "image1/M00/00/38/CgYXBlTUXKKAa7c_AABVoBI494k814.jpg",
+						"companyName": "思华科技",
+						"companyFullName": "上海思华科技股份有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4053215,
+						"positionName": "运维工程师（南京）",
+						"city": "上海",
+						"createTime": "今天 11:21",
+						"salary": "8k-12k",
+						"companyId": 26467,
+						"companyLogo": "image1/M00/00/38/CgYXBlTUXKKAa7c_AABVoBI494k814.jpg",
+						"companyName": "思华科技",
+						"companyFullName": "上海思华科技股份有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4068257,
+						"positionName": "项目经理",
+						"city": "深圳",
+						"createTime": "今天 11:15",
+						"salary": "10k-18k",
+						"companyId": 16883,
+						"companyLogo": "image1/M00/00/1F/CgYXBlTUWGyAKjEuAACF7mPq068020.jpg",
+						"companyName": "E-CAR",
+						"companyFullName": "广东翼卡车联网服务有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4029263,
+						"positionName": "销售专员",
+						"city": "成都",
+						"createTime": "今天 11:15",
+						"salary": "4k-8k",
+						"companyId": 243914,
+						"companyLogo": "i/image/M00/81/0F/CgpFT1pYIUmAYeCGAAAod-clOqQ771.png",
+						"companyName": "Hermanmiller",
+						"companyFullName": "成都和瑞丰实业有限责任公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4054597,
+						"positionName": "资深后台产品经理-跑腿代购方向",
+						"city": "北京",
+						"createTime": "今天 11:15",
+						"salary": "25k-50k",
+						"companyId": 50702,
+						"companyLogo": "i/image/M00/6A/05/Cgp3O1gW8zSAUwUsAABMptH-XY087.jpeg",
+						"companyName": "美团点评",
+						"companyFullName": "北京三快在线科技有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4022001,
+						"positionName": "前端",
+						"city": "北京",
+						"createTime": "今天 11:14",
+						"salary": "15k-30k",
+						"companyId": 190413,
+						"companyLogo": "i/image/M00/14/75/CgpEMljxqPeATVzMAABTwE-3uJc836.png",
+						"companyName": "云脑科技",
+						"companyFullName": "杭州云脑科技有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4022435,
+						"positionName": "Python工程师",
+						"city": "北京",
+						"createTime": "今天 11:14",
+						"salary": "10k-20k",
+						"companyId": 190413,
+						"companyLogo": "i/image/M00/14/75/CgpEMljxqPeATVzMAABTwE-3uJc836.png",
+						"companyName": "云脑科技",
+						"companyFullName": "杭州云脑科技有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4024650,
+						"positionName": "房产客服专员",
+						"city": "北京",
+						"createTime": "今天 11:14",
+						"salary": "7k-12k",
+						"companyId": 46348,
+						"companyLogo": "image1/M00/00/77/Cgo8PFTUXauAeNlYAABE12ZYmEU829.gif",
+						"companyName": "北京麦田",
+						"companyFullName": "北京麦田房产经纪有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4066434,
+						"positionName": "前端开发/移动开发顾问",
+						"city": "北京",
+						"createTime": "今天 11:13",
+						"salary": "8k-15k",
+						"companyId": 250467,
+						"companyLogo": "i/image/M00/63/FE/CgpFT1mg3eWAeBMSAAA7Zd_YdT8595.jpg",
+						"companyName": "龙创腾达",
+						"companyFullName": "北京龙创腾达科技有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4074099,
+						"positionName": "JAVA Developer",
+						"city": "北京",
+						"createTime": "今天 11:13",
+						"salary": "12k-24k",
+						"companyId": 67300,
+						"companyLogo": "i/image/M00/99/BB/Cgp3O1ihGAGAKUgUAAG55-tWef418.jpeg",
+						"companyName": "ThoughtWorks",
+						"companyFullName": "思特沃克软件技术（成都）有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4054159,
+						"positionName": "JAVA资深工程师",
+						"city": "广州",
+						"createTime": "今天 11:13",
+						"salary": "15k-25k",
+						"companyId": 141544,
+						"companyLogo": "i/image/M00/4A/7D/Cgp3O1ea0e2ANx_nAAAYUL_VMCA021.png",
+						"companyName": "F5未来商店",
+						"companyFullName": "佛山市创商汇电子商务有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4057323,
+						"positionName": "FPGA算法实现工程师（RTL工程师）",
+						"city": "西安",
+						"createTime": "今天 11:12",
+						"salary": "12k-24k",
+						"companyId": 36760,
+						"companyLogo": "i/image/M00/06/FC/CgqKkVbNbHmAEQC-AAAMJk8a4-M163.jpg",
+						"companyName": "Nova科技",
+						"companyFullName": "西安诺瓦电子科技有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4054946,
+						"positionName": "C++游戏服务器开发工程师",
+						"city": "上海",
+						"createTime": "今天 11:12",
+						"salary": "10k-18k",
+						"companyId": 23239,
+						"companyLogo": "image1/M00/00/2D/Cgo8PFTUXHmAQi0TAAAzXD5ReGE607.jpg",
+						"companyName": "DeNA China",
+						"companyFullName": "上海纵游网络技术有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4064690,
+						"positionName": "CFO",
+						"city": "广州",
+						"createTime": "今天 11:11",
+						"salary": "60k-100k",
+						"companyId": 160121,
+						"companyLogo": "i/image/M00/79/E2/Cgp3O1g-gY2AGd6fAAAepQCJ6hw243.jpg",
+						"companyName": "X-MEN",
+						"companyFullName": "广州艾克斯曼网络科技有限公司"
+					},
+					{
+						"logger": {
+							"traceCapable": true,
+							"name": "com.lagou.entity.mobile.MobilePosition"
+						},
+						"positionId": 4027828,
+						"positionName": "系统策划",
+						"city": "广州",
+						"createTime": "今天 11:11",
+						"salary": "10k-20k",
+						"companyId": 160121,
+						"companyLogo": "i/image/M00/79/E2/Cgp3O1g-gY2AGd6fAAAepQCJ6hw243.jpg",
+						"companyName": "X-MEN",
+						"companyFullName": "广州艾克斯曼网络科技有限公司"
+					}
+				],
+				"totalCount": "372896",
+				"pageNo": 2
+			}
+		},
+		"rows": []
+	},
+	"message": "第2页数据,每页15条, 查询成功!",
+	"state": 1
+}

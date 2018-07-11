@@ -1,0 +1,1923 @@
+{
+	"data": {
+		"currentPage": 1,
+		"hasMore": true,
+		"pageModules": [
+			{
+				"dataList": [
+					{
+						"brandId": 0,
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201806/1a1df133-dfe2-4df3-9b5b-f2cb6603fae3_750H",
+						"resource": "https://a.dmall.com/act/GRh3soEaCUY.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 1,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201805/d4b8fecd-4cfb-42f4-911f-f08a20846c62_750H",
+						"resource": "https://a.dmall.com/act/IzAjU7vxJbRtrlc.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 2,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201805/b6c03ef8-7f8e-47db-bddc-152b89e5499b_750H",
+						"resource": "https://a.dmall.com/act/JcB2p3Eimq.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 3,
+						"storeId": 11928,
+						"venderId": 59
+					}
+				],
+				"displayType": 119,
+				"groupFeature": {
+					"title": "轮播图-HBZL",
+					"heightWideRatio": 0.53,
+					"ratio": 1,
+					"margin": 0,
+					"showTitle": false
+				},
+				"moduleType": 119,
+				"name": "轮播图-HBZL",
+				"showBgImg": false,
+				"showName": false,
+				"sort": 1
+			},
+			{
+				"bgImgUrl": "https://img.dmallcdn.com/mIndex/201711/f99c7dcf-5b3b-410f-8c51-0c07b5a2d92c",
+				"dataList": [
+					{
+						"brandId": 0,
+						"data": {
+							"title": "米面粮油",
+							"showPlayIcon": false,
+							"showTitle": true
+						},
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201710/98123a1d-0dec-477e-9e38-96052ad3e6ed_240x240H",
+						"remark": "米面粮油",
+						"resource": "https://a.dmall.com/act/VIwg2DKvjhzurCc.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 1,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"title": "调味冲调",
+							"showPlayIcon": false,
+							"showTitle": true
+						},
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201806/c10ee20a-b8da-44f8-a441-38c0f0777ced_240x240H",
+						"remark": "调味冲调",
+						"resource": "https://a.dmall.com/act/8M4VS1ozPk2KZlL.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 2,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"title": "乳品速食",
+							"showPlayIcon": false,
+							"showTitle": true
+						},
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201806/95f8b482-b697-4fc4-934c-5d3918c838d6_240x240H",
+						"remark": "乳品速食",
+						"resource": "https://a.dmall.com/act/HRWhyeA5E102bDY.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 3,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"title": "家庭清洁",
+							"showPlayIcon": false,
+							"showTitle": true
+						},
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201806/73b85422-5dc1-4408-8415-a1347fb56410_240x240H",
+						"remark": "家庭清洁",
+						"resource": "https://a.dmall.com/act/j4OHyTEAQp.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 4,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"title": "母婴用品",
+							"showPlayIcon": false,
+							"showTitle": true
+						},
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201806/a451553d-ea9a-448a-931a-7e902eb9b6dc_240x240H",
+						"remark": "母婴用品",
+						"resource": "https://a.dmall.com/act/An4ISwlg1j.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 5,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"title": "酒水饮品",
+							"showPlayIcon": false,
+							"showTitle": true
+						},
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201806/3f4fdc1a-c7da-4180-9a63-b448fabcb1fd_240x240H",
+						"remark": "酒水饮品",
+						"resource": "https://a.dmall.com/act/YbnHa7xqEl81wXoj.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 1,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"title": "饼干膨化",
+							"showPlayIcon": false,
+							"showTitle": true
+						},
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201806/da0e2027-bd1f-4e52-9712-98ad3bba190c_240x240H",
+						"remark": "饼干膨化",
+						"resource": "https://a.dmall.com/act/WocuZTfP35aI.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 2,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"title": "坚果糖果",
+							"showPlayIcon": false,
+							"showTitle": true
+						},
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201806/aba49626-178b-4197-bc08-2bd1af887358_240x240H",
+						"remark": "坚果糖果",
+						"resource": "https://a.dmall.com/act/cjlep7QfTaO.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 3,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"title": "个人护理",
+							"showPlayIcon": false,
+							"showTitle": true
+						},
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201806/04d89b3a-3954-4b3f-8a0c-d4e2137b8303_240x240H",
+						"remark": "个人护理",
+						"resource": "https://a.dmall.com/act/KWmn2DeyO8vr0FM.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 4,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"title": "日用百货",
+							"showPlayIcon": false,
+							"showTitle": true
+						},
+						"dataType": 5,
+						"imageUrl": "https://img.dmallcdn.com/mIndex/201806/8a7697cf-1d98-4eb0-881b-64759e29601f_240x240H",
+						"remark": "日用百货",
+						"resource": "https://a.dmall.com/act/pk84uCrW1e6Nd7wH.html?erpStoreId=11928&dmfrom=wx&from=wx&shareKey=1528185737849",
+						"sort": 5,
+						"storeId": 11928,
+						"venderId": 59
+					}
+				],
+				"displayType": 120,
+				"groupFeature": {
+					"title": "功能区(上)-HBZL",
+					"ratio": 1,
+					"margin": 10,
+					"showTitle": false
+				},
+				"moduleType": 120,
+				"name": "功能区(上)-HBZL",
+				"showBgImg": true,
+				"showName": false,
+				"sort": 3
+			},		
+			{
+				"dataList": [
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000354243,
+							"promotionPrice": "19.90",
+							"stock": 959,
+							"price": "22.80",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "香雪麦纯富强粉 5kg",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "香雪麦纯富强粉 5kg",
+								"img": "https://img.dmallcdn.com/20170901/b42f7dfc-f444-48f3-b5ea-c7d9d166fbe8_360x360H",
+								"skuId": 1000354243,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/b42f7dfc-f444-48f3-b5ea-c7d9d166fbe8_360x360H",
+						"resource": "1000354243",
+						"sort": 1,
+						"spId": 1000354243,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"stock": 2280,
+							"skuType": 2,
+							"sell": true,
+							"name": "海天金标生抽桶装 1.28L 新老包装随机",
+							"showPlayIcon": false,
+							"promotionList": [],
+							"skus": {
+								"shop": 11928,
+								"title": "海天金标生抽桶装 1.28L 新老包装随机",
+								"img": "https://img.dmallcdn.com/20170901/aee19735-6831-4841-b8c2-7fe98c0218f4_360x360H",
+								"skuId": 1000354688,
+								"promotionInfo": ""
+							},
+							"videoInfo": [],
+							"showTitle": false,
+							"promotionDisplayLable": "精选价",
+							"price": "26.80",
+							"promotionPrice": "16.90"
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/aee19735-6831-4841-b8c2-7fe98c0218f4_360x360H",
+						"resource": "1000354688",
+						"sort": 2,
+						"spId": 1000354688,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000355185,
+							"promotionPrice": "13.40",
+							"stock": 456,
+							"price": "13.90",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "龙和宽龙门米醋 2.1L",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "龙和宽龙门米醋 2.1L",
+								"img": "https://img.dmallcdn.com/20170901/b7dda436-f526-44d3-b319-58e686826656_360x360H",
+								"skuId": 1000355185,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/b7dda436-f526-44d3-b319-58e686826656_360x360H",
+						"resource": "1000355185",
+						"sort": 3,
+						"spId": 1000355185,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000354218,
+							"promotionPrice": "17.90",
+							"stock": 453,
+							"price": "19.90",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "双汇王中王 600g",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "双汇王中王 600g",
+								"img": "https://img.dmallcdn.com/20170905/bdfdd6f8-0162-4ca9-b726-a06853ca619c_360x360H",
+								"skuId": 1000354218,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170905/bdfdd6f8-0162-4ca9-b726-a06853ca619c_360x360H",
+						"resource": "1000354218",
+						"sort": 4,
+						"spId": 1000354218,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000354404,
+							"promotionPrice": "28.80",
+							"stock": 591,
+							"price": "29.90",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "三养超辣鸡肉味拌面五连包 140g*5 韩国 新老包装随机",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "三养超辣鸡肉味拌面五连包 140g*5 韩国 新老包装随机",
+								"img": "https://img.dmallcdn.com/20170901/fdf9b923-5fa9-4fe9-b0c0-fe1b2366aa0f_360x360H",
+								"skuId": 1000354404,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/fdf9b923-5fa9-4fe9-b0c0-fe1b2366aa0f_360x360H",
+						"resource": "1000354404",
+						"sort": 5,
+						"spId": 1000354404,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000392122,
+							"promotionPrice": "28.50",
+							"stock": 60,
+							"price": "29.90",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "月盛斋清香牛肉 200g",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "月盛斋清香牛肉 200g",
+								"img": "https://img.dmallcdn.com/20180502/30db73bf-1f59-4768-804a-542f0aadf747_360x360H",
+								"skuId": 1000392122,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20180502/30db73bf-1f59-4768-804a-542f0aadf747_360x360H",
+						"resource": "1000392122",
+						"sort": 6,
+						"spId": 1000392122,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"stock": 480,
+							"skuType": 2,
+							"sell": true,
+							"name": "江中猴菇早餐米稀 450g 新老包装随机",
+							"showPlayIcon": false,
+							"promotionList": [],
+							"skus": {
+								"shop": 11928,
+								"title": "江中猴菇早餐米稀 450g 新老包装随机",
+								"img": "https://img.dmallcdn.com/20170901/c6f882f2-130f-4f0a-a65a-769a3a3b0e0d_360x360H",
+								"skuId": 1000353878,
+								"promotionInfo": ""
+							},
+							"videoInfo": [],
+							"showTitle": false,
+							"promotionDisplayLable": "精选价",
+							"sku": 1000353878,
+							"price": "120.00",
+							"promotionPrice": "108.00"
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/c6f882f2-130f-4f0a-a65a-769a3a3b0e0d_360x360H",
+						"resource": "1000353878",
+						"sort": 7,
+						"spId": 1000353878,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000352207,
+							"promotionPrice": "11.50",
+							"stock": 65,
+							"price": "11.90",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "璀璨薏仁米 400g",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								},
+								{
+									"typeName": "条件促销",
+									"subTypeName": "29元3件",
+									"subType": 302,
+									"type": 3
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "璀璨薏仁米 400g",
+								"img": "https://img.dmallcdn.com/20170901/1889fc4f-9ea1-432f-96f9-8ff335904c77_360x360H",
+								"skuId": 1000352207,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/1889fc4f-9ea1-432f-96f9-8ff335904c77_360x360H",
+						"resource": "1000352207",
+						"sort": 8,
+						"spId": 1000352207,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000354210,
+							"promotionPrice": "14.90",
+							"stock": 441,
+							"price": "15.60",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "富昌腐竹 250g",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "富昌腐竹 250g",
+								"img": "https://img.dmallcdn.com/20170901/cc672552-d16c-4691-9ba4-885503a96b91_360x360H",
+								"skuId": 1000354210,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/cc672552-d16c-4691-9ba4-885503a96b91_360x360H",
+						"resource": "1000354210",
+						"sort": 9,
+						"spId": 1000354210,
+						"storeId": 11928,
+						"venderId": 59
+					}
+				],
+				"displayType": 128,
+				"groupFeature": {
+					"subTitle": "",
+					"title": "米面粮油-商品-3N",
+					"ratio": 1,
+					"margin": 4,
+					"showTitle": false
+				},
+				"moduleType": 128,
+				"name": "米面粮油-商品-3N",
+				"showBgImg": false,
+				"showName": false,
+				"sort": 14
+			},			
+			{
+				"dataList": [
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000355291,
+							"promotionPrice": "165.00",
+							"stock": 167,
+							"price": "186.00",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "牛栏山陈酿白瓶白牛二42度 500ml*12",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "牛栏山陈酿白瓶白牛二42度 500ml*12",
+								"img": "https://img.dmallcdn.com/20170901/04197a1a-3b21-4263-b802-5dc059457400_360x360H",
+								"skuId": 1000355291,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/04197a1a-3b21-4263-b802-5dc059457400_360x360H",
+						"resource": "1000355291",
+						"sort": 1,
+						"spId": 1000355291,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000354969,
+							"price":"150.00",
+							"promotionPrice": "148.00",
+							"stock": 182,
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "拉菲传奇波尔多法定产区红葡萄酒 750ml 法国",
+							"promotionList": [
+								{
+									"typeName": "单品买赠促销",
+									"subTypeName": "买1赠1",
+									"subType": 201,
+									"type": 2
+								}
+							],
+							"promotionDisplayLable": "买1赠1",
+							"skus": {
+								"shop": 11928,
+								"title": "拉菲传奇波尔多法定产区红葡萄酒 750ml 法国",
+								"img": "https://img.dmallcdn.com/20170901/24e60c55-e15c-446e-8540-66e1a17a840d_360x360H",
+								"skuId": 1000354969,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/24e60c55-e15c-446e-8540-66e1a17a840d_360x360H",
+						"resource": "1000354969",
+						"sort": 2,
+						"spId": 1000354969,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000355057,
+							"price":"16.00",
+							"promotionPrice": "15.00",
+							"stock": 21709,
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "教士小麦啤酒 500ml",
+							"promotionList": [
+								{
+									"typeName": "单品买赠促销",
+									"subTypeName": "买1赠1",
+									"subType": 201,
+									"type": 2
+								}
+							],
+							"promotionDisplayLable": "买1赠1",
+							"skus": {
+								"shop": 11928,
+								"title": "教士小麦啤酒 500ml",
+								"img": "https://img.dmallcdn.com/20170901/b4293bfc-2387-498b-b6aa-fb4a6dc9b67c_360x360H",
+								"skuId": 1000355057,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/b4293bfc-2387-498b-b6aa-fb4a6dc9b67c_360x360H",
+						"resource": "1000355057",
+						"sort": 3,
+						"spId": 1000355057,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000355405,
+							"promotionPrice": "36.90",
+							"stock": 892,
+							"price": "48.00",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "可口可乐迷你装 300ml*24",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "可口可乐迷你装 300ml*24",
+								"img": "https://img.dmallcdn.com/20170901/f277d2c1-7133-4159-bbc9-7541562c3d17_360x360H",
+								"skuId": 1000355405,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/f277d2c1-7133-4159-bbc9-7541562c3d17_360x360H",
+						"resource": "1000355405",
+						"sort": 4,
+						"spId": 1000355405,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000352306,
+							"promotionPrice": "149.00",
+							"stock": 512,
+							"price": "169.00",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "农夫山泉100%NFC橙汁 300ml*24 新老包装随机",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "农夫山泉100%NFC橙汁 300ml*24 新老包装随机",
+								"img": "https://img.dmallcdn.com/20170901/0ad57ee5-8256-4e54-8612-ad5ccf85b3c3_360x360H",
+								"skuId": 1000352306,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/0ad57ee5-8256-4e54-8612-ad5ccf85b3c3_360x360H",
+						"resource": "1000352306",
+						"sort": 5,
+						"spId": 1000352306,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000355374,
+							"promotionPrice": "69.90",
+							"stock": 1858,
+							"price": "78.00",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "雀巢咖啡丝滑拿铁即饮饮料 268ml*15 新老包装随机发货",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "雀巢咖啡丝滑拿铁即饮饮料 268ml*15 新老包装随机发货",
+								"img": "https://img.dmallcdn.com/20170901/208a52bc-3f51-4c89-83ae-f6aa612b4add_360x360H",
+								"skuId": 1000355374,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/208a52bc-3f51-4c89-83ae-f6aa612b4add_360x360H",
+						"resource": "1000355374",
+						"sort": 6,
+						"spId": 1000355374,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [
+								"https://img.dmallcdn.com/cornerMarkV3/22/1_360x360H"
+							],
+							"videoInfo": [],
+							"sku": 1000376012,
+							"promotionPrice": "102.50",
+							"stock": 1013,
+							"price": "129.00",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "爱氏晨曦Arla全脂牛奶 1L*12 德国 新老包装随机",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "爱氏晨曦Arla全脂牛奶 1L*12 德国 新老包装随机",
+								"img": "https://img.dmallcdn.com/20180201/05941148-e835-444a-a024-6f044542a2ab_360x360H",
+								"skuId": 1000376012,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20180201/05941148-e835-444a-a024-6f044542a2ab_360x360H",
+						"resource": "1000376012",
+						"sort": 7,
+						"spId": 1000376012,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000354800,
+							"promotionPrice": "49.00",
+							"stock": 1585,
+							"price": "58.00",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "景田百岁山饮用天然矿泉水 570ml*24",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "景田百岁山饮用天然矿泉水 570ml*24",
+								"img": "https://img.dmallcdn.com/20170901/d0aa3714-d3f0-4d99-958a-21916d2f32b0_360x360H",
+								"skuId": 1000354800,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20170901/d0aa3714-d3f0-4d99-958a-21916d2f32b0_360x360H",
+						"resource": "1000354800",
+						"sort": 8,
+						"spId": 1000354800,
+						"storeId": 11928,
+						"venderId": 59
+					},
+					{
+						"brandId": 0,
+						"data": {
+							"cornerSign": [],
+							"videoInfo": [],
+							"sku": 1000365646,
+							"promotionPrice": "88.60",
+							"stock": 1182,
+							"price": "99.00",
+							"skuType": 2,
+							"sell": true,
+							"showPlayIcon": false,
+							"name": "光明莫斯利安酸牛奶 原味 200g*24 新老包装随机发货",
+							"promotionList": [
+								{
+									"typeName": "单品促销",
+									"subTypeName": "精选价",
+									"subType": 102,
+									"type": 1
+								}
+							],
+							"promotionDisplayLable": "精选价",
+							"skus": {
+								"shop": 11928,
+								"title": "光明莫斯利安酸牛奶 原味 200g*24 新老包装随机发货",
+								"img": "https://img.dmallcdn.com/20171127/897040d1-a7fa-4a44-ab8b-8fd5a112494d_360x360H",
+								"skuId": 1000365646,
+								"promotionInfo": ""
+							},
+							"showTitle": false
+						},
+						"dataType": 3,
+						"imageUrl": "https://img.dmallcdn.com/20171127/897040d1-a7fa-4a44-ab8b-8fd5a112494d_360x360H",
+						"resource": "1000365646",
+						"sort": 9,
+						"spId": 1000365646,
+						"storeId": 11928,
+						"venderId": 59
+					}
+				],
+				"displayType": 128,
+				"groupFeature": {
+					"subTitle": "",
+					"title": "酒水休食-商品-3N",
+					"ratio": 1,
+					"margin": 4,
+					"showTitle": false
+				},
+				"moduleType": 128,
+				"name": "酒水休食-商品-3N",
+				"showBgImg": false,
+				"showName": false,
+				"sort": 17
+			},
+			{
+				"data": {
+					"list": [
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/8a459286-f2eb-4cd2-a77f-e334cf3439ac_360x360H",
+							"isTagPreSell": true,
+							"price": 3590,
+							"promotionInfo": {
+								"offPrice": 3590,
+								"originalPrice": 3590,
+								"promotionPrice": 2990,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354128
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354128,
+							"sortScore": 0.8557832699320658,
+							"status": 1,
+							"stock": 3652,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门金典东北米 5kg",
+							"venderId": 59,
+							"wareId": 1000362180
+						},
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/752db6fa-8f2d-45aa-b5c6-6ca40abfc9e6_360x360H",
+							"isTagPreSell": true,
+							"price": 4600,
+							"promotionInfo": {
+								"offPrice": 4600,
+								"originalPrice": 4600,
+								"promotionPrice": 3990,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000352803
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000352803,
+							"sortScore": 0.7756218896855562,
+							"status": 1,
+							"stock": 1009,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门葵花籽原香食用调和油 5L",
+							"venderId": 59,
+							"wareId": 1000360855
+						},
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/a4dcc9c0-5f4f-4e2d-948a-1b18c01401a9_360x360H",
+							"isTagPreSell": true,
+							"price": 3280,
+							"promotionInfo": {
+								"offPrice": 3280,
+								"originalPrice": 3280,
+								"promotionPrice": 2990,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000352923
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000352923,
+							"sortScore": 0.73233788526736,
+							"status": 1,
+							"stock": 357,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门金典特选长粒香 4kg",
+							"venderId": 59,
+							"wareId": 1000360975
+						},
+						{
+							"brand": 514,
+							"brandName": "香满园",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20180507/468efe90-0a71-4d51-a036-34895ec9ffe7_360x360H",
+							"isTagPreSell": true,
+							"price": 2390,
+							"promotionInfo": {
+								"offPrice": 2390,
+								"originalPrice": 2390,
+								"promotionPrice": 1990,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000355469
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000355469,
+							"sortScore": 0.6943994475545765,
+							"status": 1,
+							"stock": 1475,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 香满园美味富强小麦粉 5kg",
+							"venderId": 59,
+							"wareId": 1000363521
+						},
+						{
+							"brand": 27,
+							"brandName": "中盐",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/6066dfbd-0572-4f7d-aa7b-dd08a09fbb0a_360x360H",
+							"isTagPreSell": true,
+							"price": 320,
+							"promotionInfo": {
+								"offPrice": 320,
+								"originalPrice": 320,
+								"promotionPrice": 300,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000355207
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000355207,
+							"sortScore": 0.6686081569781401,
+							"status": 1,
+							"stock": 4698,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10801,
+							"thirdCatName": "精选厨房调味",
+							"title": "[次日达] 中盐低钠岩盐 350g",
+							"venderId": 59,
+							"wareId": 1000363259
+						},
+						{
+							"brand": 812,
+							"brandName": "双汇",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170905/bdfdd6f8-0162-4ca9-b726-a06853ca619c_360x360H",
+							"isTagPreSell": true,
+							"price": 1990,
+							"promotionInfo": {
+								"offPrice": 1990,
+								"originalPrice": 1990,
+								"promotionPrice": 1790,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354218
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354218,
+							"sortScore": 0.6532134481805396,
+							"status": 1,
+							"stock": 659,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10802,
+							"thirdCatName": "精选方便速食",
+							"title": "[次日达] 双汇王中王 600g",
+							"venderId": 59,
+							"wareId": 1000362270
+						},
+						{
+							"brand": 426,
+							"brandName": "鲁花",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/75fc1082-f401-4c3b-826e-2fa5aac9f58c_360x360H",
+							"isTagPreSell": true,
+							"price": 14990,
+							"promotionInfo": {
+								"offPrice": 14990,
+								"originalPrice": 14990,
+								"promotionPrice": 14890,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000353413
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000353413,
+							"sortScore": 0.6293087728192778,
+							"status": 1,
+							"stock": 2483,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 鲁花5S压榨一级花生油 5.436L",
+							"venderId": 59,
+							"wareId": 1000361465
+						},
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/c1c53832-4bc9-469b-af9f-f968205c42b2_360x360H",
+							"isTagPreSell": true,
+							"price": 6500,
+							"promotionInfo": {
+								"offPrice": 6500,
+								"originalPrice": 6500,
+								"promotionPrice": 5500,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000352814
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000352814,
+							"sortScore": 0.594138560049524,
+							"status": 1,
+							"stock": 678,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门非转基因大豆油 5L",
+							"venderId": 59,
+							"wareId": 1000360866
+						},
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/b11a0237-d982-4d4d-a5a2-b7519131cc33_360x360H",
+							"isTagPreSell": true,
+							"price": 4600,
+							"promotionInfo": {
+								"offPrice": 4600,
+								"originalPrice": 4600,
+								"promotionPrice": 3990,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000352815
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000352815,
+							"sortScore": 0.5867223437526744,
+							"status": 1,
+							"stock": 385,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门一级大豆油 5L",
+							"venderId": 59,
+							"wareId": 1000360867
+						},
+						{
+							"brand": 375,
+							"brandName": "金龙鱼",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/be0c532f-5f8c-4390-afd6-6b516066f0ff_360x360H",
+							"isTagPreSell": true,
+							"price": 3480,
+							"promotionInfo": {
+								"offPrice": 3480,
+								"originalPrice": 3480,
+								"promotionPrice": 3470,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354134
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354134,
+							"sortScore": 0.586444240475434,
+							"status": 1,
+							"stock": 1009,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 金龙鱼盘锦大米 5kg",
+							"venderId": 59,
+							"wareId": 1000362186
+						},
+						{
+							"brand": 25,
+							"brandName": "王致和",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/e47c3213-adf9-42c0-95a9-a27323f5e503_360x360H",
+							"isTagPreSell": true,
+							"price": 790,
+							"promotionInfo": {
+								"offPrice": 790,
+								"originalPrice": 790,
+								"promotionPrice": 690,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000355161
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000355161,
+							"sortScore": 0.5806735994712624,
+							"status": 1,
+							"stock": 116,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10802,
+							"thirdCatName": "精选方便速食",
+							"title": "[次日达] 王致和大块腐乳 340g",
+							"venderId": 59,
+							"wareId": 1000363213
+						},
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/300a001a-ca7c-416d-9675-f28a9f1e9bc3_360x360H",
+							"isTagPreSell": true,
+							"price": 5900,
+							"promotionInfo": {
+								"offPrice": 5900,
+								"originalPrice": 5900,
+								"promotionPrice": 5500,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000352813
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000352813,
+							"sortScore": 0.5689011469486793,
+							"status": 1,
+							"stock": 772,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门非转基因纯香菜籽油 5L",
+							"venderId": 59,
+							"wareId": 1000360865
+						},
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/fbb0272c-81de-4260-ae18-4e8506b966ce_360x360H",
+							"isTagPreSell": true,
+							"price": 9900,
+							"promotionInfo": {
+								"offPrice": 9900,
+								"originalPrice": 9900,
+								"promotionPrice": 9900,
+								"promotionTags": [],
+								"skuId": 1000353415
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000353415,
+							"sortScore": 0.5668375310136787,
+							"status": 1,
+							"stock": 287,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门浓香压榨一级花生油 5L",
+							"venderId": 59,
+							"wareId": 1000361467
+						},
+						{
+							"brand": 426,
+							"brandName": "鲁花",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20180208/c4c98156-431f-42d9-9366-9d151ed4c50f_360x360H",
+							"isTagPreSell": true,
+							"price": 13990,
+							"promotionInfo": {
+								"offPrice": 13990,
+								"originalPrice": 13990,
+								"promotionPrice": 13890,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000353416
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000353416,
+							"sortScore": 0.5604683308881533,
+							"status": 1,
+							"stock": 173,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 鲁花5S压榨一级花生油 5L",
+							"venderId": 59,
+							"wareId": 1000361468
+						},
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/d59b0e74-f0a6-44b6-89f9-0cb76664ee93_360x360H",
+							"isTagPreSell": true,
+							"price": 8800,
+							"promotionInfo": {
+								"offPrice": 8800,
+								"originalPrice": 8800,
+								"promotionPrice": 7990,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354139
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354139,
+							"sortScore": 0.5598317694853431,
+							"status": 1,
+							"stock": 3899,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门稻花香米 5kg",
+							"venderId": 59,
+							"wareId": 1000362191
+						},
+						{
+							"brand": 21,
+							"brandName": "海天",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/077817f4-6ade-47c1-94ef-d49de1382c4e_360x360H",
+							"isTagPreSell": true,
+							"price": 690,
+							"promotionInfo": {
+								"offPrice": 690,
+								"originalPrice": 690,
+								"promotionPrice": 690,
+								"promotionTags": [
+									"满3免1"
+								],
+								"skuId": 1000354691
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354691,
+							"sortScore": 0.5549182193412945,
+							"status": 1,
+							"stock": 812,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10801,
+							"thirdCatName": "精选厨房调味",
+							"title": "[次日达] 海天香醋 445ml",
+							"venderId": 59,
+							"wareId": 1000362743
+						},
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/1c86cb2f-8311-4740-8ce9-8a817270ceed_360x360H",
+							"isTagPreSell": true,
+							"price": 7900,
+							"promotionInfo": {
+								"offPrice": 7900,
+								"originalPrice": 7900,
+								"promotionPrice": 6990,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000352812
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000352812,
+							"sortScore": 0.5546670074357294,
+							"status": 1,
+							"stock": 23,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门压榨葵花籽油 5L",
+							"venderId": 59,
+							"wareId": 1000360864
+						},
+						{
+							"brand": 518,
+							"brandName": "香雪",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/db1c5c02-9f5e-4bc5-b677-1a6a8c5a53cc_360x360H",
+							"isTagPreSell": true,
+							"price": 2990,
+							"promotionInfo": {
+								"offPrice": 2990,
+								"originalPrice": 2990,
+								"promotionPrice": 2580,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354239
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354239,
+							"sortScore": 0.5546508608495739,
+							"status": 1,
+							"stock": 793,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 香雪高筋特精粉 5kg",
+							"venderId": 59,
+							"wareId": 1000362291
+						},
+						{
+							"brand": 812,
+							"brandName": "双汇",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/107511ef-87ac-4aa2-a763-337af9092118_360x360H",
+							"isTagPreSell": true,
+							"price": 1090,
+							"promotionInfo": {
+								"offPrice": 1090,
+								"originalPrice": 1090,
+								"promotionPrice": 990,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354224
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354224,
+							"sortScore": 0.5473068384240393,
+							"status": 1,
+							"stock": 614,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10802,
+							"thirdCatName": "精选方便速食",
+							"title": "[次日达] 双汇火腿肠 500g",
+							"venderId": 59,
+							"wareId": 1000362276
+						},
+						{
+							"brand": 518,
+							"brandName": "香雪",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/b42f7dfc-f444-48f3-b5ea-c7d9d166fbe8_360x360H",
+							"isTagPreSell": true,
+							"price": 2280,
+							"promotionInfo": {
+								"offPrice": 2280,
+								"originalPrice": 2280,
+								"promotionPrice": 1990,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354243
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354243,
+							"sortScore": 0.5463997533176659,
+							"status": 1,
+							"stock": 1212,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 香雪麦纯富强粉 5kg",
+							"venderId": 59,
+							"wareId": 1000362295
+						},
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/f16d3944-6d3b-4efc-9c80-f4ab9bcc9ce6_360x360H",
+							"isTagPreSell": true,
+							"price": 3880,
+							"promotionInfo": {
+								"offPrice": 3880,
+								"originalPrice": 3880,
+								"promotionPrice": 3290,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000353997
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000353997,
+							"sortScore": 0.5455927560908025,
+							"status": 1,
+							"stock": 1501,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门秋田小町 5kg",
+							"venderId": 59,
+							"wareId": 1000362049
+						},
+						{
+							"brand": 235,
+							"brandName": "安琪",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/3893bfb1-1db7-4d53-bbf6-b5ee44f74b7c_360x360H",
+							"isTagPreSell": true,
+							"price": 150,
+							"promotionInfo": {
+								"offPrice": 150,
+								"originalPrice": 150,
+								"promotionPrice": 120,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354039
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354039,
+							"sortScore": 0.5438068131136682,
+							"status": 1,
+							"stock": 930,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10801,
+							"thirdCatName": "精选厨房调味",
+							"title": "[次日达] 安琪酵母 15g",
+							"venderId": 59,
+							"wareId": 1000362091
+						},
+						{
+							"brand": 426,
+							"brandName": "鲁花",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/f12cf13f-796f-48fb-8a63-59273fb22d3a_360x360H",
+							"isTagPreSell": true,
+							"price": 7500,
+							"promotionInfo": {
+								"offPrice": 7500,
+								"originalPrice": 7500,
+								"promotionPrice": 7200,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354083
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354083,
+							"sortScore": 0.5424763516523834,
+							"status": 1,
+							"stock": 90,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 鲁花大豆油 5L",
+							"venderId": 59,
+							"wareId": 1000362135
+						},
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170905/96a3f849-e5a1-488b-9a43-9e1818ce5b55_360x360H",
+							"isTagPreSell": true,
+							"price": 4580,
+							"promotionInfo": {
+								"offPrice": 4580,
+								"originalPrice": 4580,
+								"promotionPrice": 4570,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354143
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354143,
+							"sortScore": 0.5419731836746245,
+							"status": 1,
+							"stock": 4101,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门五常长粒香 5kg",
+							"venderId": 59,
+							"wareId": 1000362195
+						},
+						{
+							"brand": 433,
+							"brandName": "梅林",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/afc3bb48-49cf-49e8-98ed-a8170148119f_360x360H",
+							"isTagPreSell": true,
+							"price": 1290,
+							"promotionInfo": {
+								"offPrice": 1290,
+								"originalPrice": 1290,
+								"promotionPrice": 1280,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000353063
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000353063,
+							"sortScore": 0.5367048394670386,
+							"status": 1,
+							"stock": 1923,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10802,
+							"thirdCatName": "精选方便速食",
+							"title": "[次日达] 上海梅林午餐肉 340g",
+							"venderId": 59,
+							"wareId": 1000361115
+						},
+						{
+							"brand": 442,
+							"brandName": "南方",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/7a649419-2d84-45f1-b6ff-dcbd97e7c5ce_360x360H",
+							"isTagPreSell": true,
+							"price": 2340,
+							"promotionInfo": {
+								"offPrice": 2340,
+								"originalPrice": 2340,
+								"promotionPrice": 1990,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354612
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354612,
+							"sortScore": 0.5365897174545844,
+							"status": 1,
+							"stock": 227,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10805,
+							"thirdCatName": "精选冲调/保健",
+							"title": "[次日达] 南方无糖黑芝麻糊 600g",
+							"venderId": 59,
+							"wareId": 1000362664
+						},
+						{
+							"brand": 15,
+							"brandName": "福临门",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/9a37448d-245c-415c-90ec-eb3657ab0e7f_360x360H",
+							"isTagPreSell": true,
+							"price": 3800,
+							"promotionInfo": {
+								"offPrice": 3800,
+								"originalPrice": 3800,
+								"promotionPrice": 3490,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000353846
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000353846,
+							"sortScore": 0.5299442785786819,
+							"status": 1,
+							"stock": 526,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 福临门辽河玉晶香 5kg",
+							"venderId": 59,
+							"wareId": 1000361898
+						},
+						{
+							"brand": 221,
+							"brandName": "雀巢",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/f56cfae4-3e5f-480c-b38b-720f5e96fee3_360x360H",
+							"isTagPreSell": true,
+							"price": 4600,
+							"promotionInfo": {
+								"offPrice": 4600,
+								"originalPrice": 4600,
+								"promotionPrice": 3990,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354988
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354988,
+							"sortScore": 0.5257649865297853,
+							"status": 1,
+							"stock": 58,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10805,
+							"thirdCatName": "精选冲调/保健",
+							"title": "[次日达] 雀巢咖啡1+2奶香 15g*30",
+							"venderId": 59,
+							"wareId": 1000363040
+						},
+						{
+							"brand": 299,
+							"brandName": "富昌",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20170901/3f04b609-f4f8-4bb1-88c3-d93a0d2ec206_360x360H",
+							"isTagPreSell": true,
+							"price": 790,
+							"promotionInfo": {
+								"offPrice": 790,
+								"originalPrice": 790,
+								"promotionPrice": 670,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000355209
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000355209,
+							"sortScore": 0.5244563749113831,
+							"status": 1,
+							"stock": 310,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10803,
+							"thirdCatName": "精选食品干货",
+							"title": "[次日达] 富昌白芝麻 100g",
+							"venderId": 59,
+							"wareId": 1000363261
+						},
+						{
+							"brand": 375,
+							"brandName": "金龙鱼",
+							"firstCat": 10742,
+							"firstCatName": "全球精选",
+							"img": "https://img.dmallcdn.com/20171024/b3e1a8bb-8c98-4ae5-b437-83dcfc7ec585_360x360H",
+							"isTagPreSell": true,
+							"price": 3490,
+							"promotionInfo": {
+								"offPrice": 3490,
+								"originalPrice": 3490,
+								"promotionPrice": 3480,
+								"promotionTags": [
+									"精选价"
+								],
+								"skuId": 1000354338
+							},
+							"secondCat": 10764,
+							"secondCatName": "粮油速食",
+							"shop": 11928,
+							"skuId": 1000354338,
+							"sortScore": 0.5216091406411905,
+							"status": 1,
+							"stock": 2097,
+							"tag": [],
+							"tagPreSell": "精选",
+							"thirdCat": 10800,
+							"thirdCatName": "精选米面粮油",
+							"title": "[次日达] 金龙鱼多用途麦芯粉 5kg",
+							"venderId": 59,
+							"wareId": 1000362390
+						}
+					],
+					"page": {
+						"pageNum": 1,
+						"pageSize": 30,
+						"total": 1543
+					}
+				},
+				"errCode": "0000",
+				"errMsg": ""
+			}
+
+
+		]
+	},
+	"errCode": "0000",
+	"errMsg": ""
+}

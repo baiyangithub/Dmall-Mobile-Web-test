@@ -1,0 +1,304 @@
+.container{
+    position: relative;
+    header{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        // background: red;
+        height: .44rem;
+        opacity: 0.4;
+        z-index: 999;
+        .J_toolbarCont{
+            .J_Link{
+                position: absolute;
+                top: .03rem;
+                left: .08rem;
+                width: .4rem;
+                height: .4rem;
+                padding: .04rem;
+                .icon-arrow-left-white{
+                    background-color: #333;
+                    padding: .01rem;
+                    border-radius: .16rem;
+                    width: .32rem;
+                    height: .32rem;
+                    background-image: url(../../images/sprt.png);
+                    background-repeat: no-repeat;
+                    background-size: 4rem auto;
+                    display: inline-block;
+                    background-position: 0px -150px;
+                }
+            }
+            .warename{
+                display: block;
+                height: 100%;
+                width: 70%;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                margin-left: 15%;
+                opacity: 0;
+                padding-right: .35rem;
+            }
+            .collect {
+                position: absolute;
+                padding: 0 .1rem;
+                right: .75rem;
+                height: .44rem;
+                line-height: .44rem;
+                top: 0;
+                .icon-collect{
+                    width: .4rem;
+                    height: .4rem;
+                    display: inline-block;
+                    background: url(../../images/icon-collect.png) center no-repeat;
+                    background-size: .26rem auto;
+                    vertical-align: middle;
+                }
+            }
+            .act{
+                position: absolute;
+                padding: 0 .1rem;
+                right: .3rem;
+                height: .44rem;
+                line-height: .44rem;
+                top: 0;
+                .icon-home{
+                    vertical-align: middle;
+                    background-image: url(../../images/sprt.png);
+                    background-repeat: no-repeat;
+                    background-size: 4rem auto;
+                    width: .3rem;
+                    height: .3rem;
+                    display: inline-block;
+                    background-position:-250px 0; 
+                }
+            }
+        }
+    }
+    main{
+        background: #f6f6f6;
+        overflow-y: scroll;
+        width: 100%;
+        .swiper-container{
+            width: 100%;
+            font-size: 0;
+            height: 100%;
+            .swiper-slide{
+                width: 100%;
+                height: 100%;
+                img{
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+        }
+        //价格
+        .price{
+            padding: 10px;
+            background: #fff;
+            position: relative;
+            border-bottom: 1px solid #f0f0f0;
+            .J_name{
+                position: relative;
+                color: #21292b;
+                padding: .06rem 0;
+                font-size: .18rem;
+                span{
+                    font-size: .14rem;
+                    color: grey;
+                    display: block;
+                    margin-top: .08rem;
+                    position: absolute;
+                    top: 105%;
+                    right: .1rem;
+                    z-index: 999;
+                    i{
+                        font-style: normal;
+                    }
+                }
+            }
+            .price-orange{
+                color: #ff712b;
+                font-size: .14rem;
+                .f20 {
+                    font-size: .2rem;
+                }
+                .original {
+                    text-decoration: line-through;
+                    color: #c8cccd;
+                    margin-right: .1rem;
+                }
+                .type1{
+                    vertical-align: .03rem;
+                    background-color: #ff706e;
+                    color: #fff;
+                    padding: 0 .06rem;
+                    line-height: .18rem;
+                    border-radius: .02rem;
+                    font-size: .11rem;
+                    display: inline-block;
+                    margin-right: .05rem;
+                }
+            }
+        }
+        //产地
+        .product-origin{
+            width: 100%;
+            font-size: .18rem;
+            background: #fff;
+            border-top: 1px solid #f0f0f0;
+            ul{
+                width: 100%;
+                padding: .15rem .1rem;
+                overflow: hidden;
+                position: relative;
+                border: none!important;
+                .saleblack {
+                    color: #21292b;
+                    width: 33%;
+                    font-size: .14rem;
+                    float: left;
+                    text-align: center;
+                    border-left: 1px solid #f0f0f0;
+                    span {
+                        color: grey;
+                        font-size: 12px;
+                        display: block;
+                        margin-top: 10px;
+                    }
+                }
+                .saleblack:nth-child(1){
+                    border: none;
+                }
+            }
+        }
+        //购买
+        .buy{
+            background: #fff;
+            color: #21292b;
+            font-size: .14rem;
+            border-bottom: .01rem solid #f0f0f0;
+            .buy-container{
+                padding: .09rem .1rem;
+                h4{
+                    line-height: .3rem;
+                    font-weight: 400;
+                    .icon-detail-send{
+                        width: .2rem;
+                        height: .2rem;
+                        background: url('../../images/sprt.png');
+                        background-position: -157px -408px;
+                        vertical-align: middle;
+                        background-repeat: no-repeat;
+                        background-size: 4rem auto;
+                        display: inline-block;
+                    }
+                }
+                .pay{
+                    font-size: .12rem;
+                    color: grey;
+                    display: block;
+                    .icon-detail-pay{
+                        width: .4rem;
+                        height: .2rem;
+                        vertical-align: middle;
+                        background: url('../../images/sprt.png');
+                        background-position: -106px -408px;
+                        background-repeat: no-repeat;
+                        background-size: 4rem auto;
+                        display: inline-block;
+                    }
+                }
+            }
+        }
+        //图文详情
+        .descriptionDetail{
+            text-align: center;
+            background: #fff;
+            margin-top: .1rem;
+            h4{
+                font-size: .15rem;
+                color: #ff712b;
+                padding: .14rem .1rem;
+                font-weight: 400;
+                border-left: .03rem solid #ff712b;
+                background: #fff;
+                text-align: left;
+            }
+            .attributes_box{
+                margin-bottom: .1rem;
+                li{
+                    text-align: left;
+                    width: 100%;
+                    position: relative;
+                    .attr_key{
+                        font-size: .13rem;
+                        line-height: .36rem;
+                        word-break: break-all;
+                        width: 1.2rem;
+                        position: absolute;
+                        left: 0;
+                        padding: 0 .1rem;
+                        float: left;
+                        border-right: 1px solid #f0f0f0;
+                        border-bottom: 1px solid #f0f0f0;
+                    }
+                    .attr_value{
+                        font-size: .13rem;
+                        // line-height: .36rem; 
+                        word-break: break-all;
+                        width: 100%;
+                        position: relative;
+                        height: .36rem;
+                        padding-left: 1.2rem;
+                        border-bottom: 1px solid #f0f0f0;
+                        span{
+                            height: 100%;
+                            padding: 0.1rem;
+                            display: block;
+                        }
+                    }
+                }
+            }
+            img{
+                width: 100%;
+            }
+            .last-img{
+                padding-bottom: .51rem;
+            }
+        }
+    }
+    footer{
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        background: #fff;
+        height: .51rem;
+        z-index: 999;
+        .icon-cart-gray{
+            height: .4rem;
+            width: .4rem;
+            background: url(../../images/sprt.png);
+            background-position: -100px -250px;
+            background-repeat: no-repeat;
+            background-size: 4rem auto;
+            display: inline-block;
+            position: absolute;
+            left: .15rem;
+            bottom: .04rem;
+            box-shadow: none;
+        }
+        button{
+            background: #ff712b;
+            padding: .16rem .20rem .15rem;
+            border: none;
+            float: right;
+            line-height: .22rem;
+            color: #fff;
+            font-size: .14rem;
+            border-radius: 0;
+            display: inline-block;
+        }
+    }
+}

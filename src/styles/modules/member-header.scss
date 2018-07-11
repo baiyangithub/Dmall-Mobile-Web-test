@@ -1,0 +1,11 @@
+.container {
+    header{ 
+        height: .44rem;
+        width: 100%;
+        background:#fff;
+        font-size: .16rem;
+        @include flexbox();
+        align-items: center;
+        justify-content: center;
+    }
+}

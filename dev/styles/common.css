@@ -1,0 +1,18 @@
+html {
+  font-size: 100px; }
+
+@font-face {
+  font-family: 'iconfont';
+  src: url("../iconfonts/iconfont.woff") format("woff"), url("../iconfonts/iconfont.ttf") format("truetype"); }
+
+@font-face {
+  font-family: 'add-cart-icon';
+  src: url("../iconfonts/iconfont1.woff") format("woff"), url("../iconfonts/iconfont1.ttf") format("truetype"); }
+
+@font-face {
+  font-family: 'shop-cart';
+  src: url("../iconfonts/iconfont2.woff") format("woff"), url("../iconfonts/iconfont2.ttf") format("truetype"); }
+
+.iconfont {
+  font-family: "iconfont";
+  font-size: .23rem; }
